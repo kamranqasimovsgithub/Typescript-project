@@ -1,0 +1,9 @@
+#list{
+    width: 40%;
+    margin: auto;
+    border: 2px solid coral;
+    background-color: aliceblue;    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0px 0px 10px rgb(51, 42, 42);
+}
